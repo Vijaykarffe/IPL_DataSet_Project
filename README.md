@@ -1,14 +1,14 @@
-# IPL_DataSet_Project
-  #Get the IPL Dataset:
+# IPL_DataSet_Project (Task to complete)
+#Get the IPL Dataset:
   
-In this data assignment you will transform raw data from IPL into graphs that will convey some meaning / analysis. For each part of this assignment you will have 2 parts -
+In this data assignment you will transform raw data from IPL into graphs that will convey some meaning / analysis. For each part of this assignment you will have 1 part -
 
 
 Download both csv files from https://www.kaggle.com/manasgarg/ipl
 
 Part 1
 
-Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with highcharts or any charting library you choose.
+Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with coloumn highchartsor  charting library  choosen.
 
 Generate the following plots ...
 

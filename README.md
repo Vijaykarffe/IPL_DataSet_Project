@@ -8,7 +8,7 @@ Download both csv files from https://www.kaggle.com/manasgarg/ipl
 
 Part 1
 
-Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with coloumn highchartsor  charting library  choosen.
+Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with coloumn highchartsor  charting library choosen.
 
 Generate the following plots ...
 
